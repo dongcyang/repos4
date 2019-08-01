@@ -1,3 +1,7 @@
 Git is a good version very good.
 Git is free software.
+
 我创建了一个新的分支branch.原先的master分支
+和
+我创建了一个新的分支branch.再次创建新分支并修改
+
