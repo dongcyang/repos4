@@ -1,2 +1,2 @@
-Git is a good version.
+Git is a good version very good.
 Git is free software.
